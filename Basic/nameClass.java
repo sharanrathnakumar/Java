@@ -2,7 +2,7 @@ class data {
 String name;
 }
 
-class main {
+class nameClass {
 public static void main(String[]args) {
   
   data p1= new data();
